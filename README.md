@@ -1,8 +1,23 @@
-# Geometric Texture Synthesis by Example
+# Geometric Texture Synthesis preserving 3d analogy
 
+This project was completed as the final assignment for the Computer Graphics course offered by [Indraprastha Institute of Information Technology, Delhi](https://www.iiitd.ac.in/) during the Monsoon 2022 semester.
 
-## Given inputs are -> three objects 'input A', 'input B' and 'output A' which define the input analogy and the output test object. <br>
-## Output are -> An object 'output B' such that its shape is simiar to 'output A' and the 3d analogy followed by 'input A' and 'input B' is also followed by 'output A' and 'output B' <br>
+## Project Description
+
+The objective of this project was to perform geometric texture synthesis based on given inputs. The inputs consist of three objects: 'input A', 'input B', and 'output A'. These objects define the input analogy and the output test object.
+
+### Goals
+
+The primary goals of this project were as follows:
+
+- Generate an object named 'output B' such that its shape is similar to 'output A'.
+- Ensure that the 3D analogy followed by 'input A' and 'input B' is also followed by 'output A' and 'output B'.
+
+## Implementation Details
+
+- **Technology**: The project was implemented using OpenGL.
+- **Operating System**: Linux was used as the operating system.
+
 
 ## Pattern 1
 <p float="left">
