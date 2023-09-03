@@ -1,6 +1,6 @@
 # Geometric Texture Synthesis preserving 3d analogy
 
-This project was completed as the final assignment for the Computer Graphics course offered by [Indraprastha Institute of Information Technology, Delhi](https://www.iiitd.ac.in/) during the Monsoon 2022 semester.
+This is the final course project for the Computer Graphics course offered by [Indraprastha Institute of Information Technology, Delhi](https://www.iiitd.ac.in/) during the Monsoon 2022 semester.
 
 ## Project Description
 
